@@ -1,14 +1,14 @@
 # TURTLE HOME / 꼬북집 🐢
 
-## 팀원소개
+## 팀원소개 🚀
 
-- FrontEnd - 김수정, 이강철, 손민지(PM)
+- FrontEnd - **손민지(PM)**, 김수정, 이강철 
 - BackEnd - 성바울, 전은형
 
-## 개발 기간
+## 개발 기간 🚀
 2022년 7월 18일 ~ 2022년 7월 29일 (12일)
 
-## 서비스소개
+## 서비스소개 🚀
 
 **홈 리빙 상품 판매 사이트**
 
@@ -18,22 +18,23 @@
 
 
 
-## 사용기술
+## 사용기술 🚀
 - Front-End : Javascript, React, SASS
 - 협업 툴 : Git/Github, Trello, Slack, Notion 
 
 
-## 구현기능
+## 구현기능 🚀
+_**굵게** ➪ 담당부분_<br /> 
 - 인트로 : 이미지 슬라이드(버튼식 & 자동슬라이드)
 - 로그인 / 회원가입 : 백엔드 통신(토큰 발급 및 저장) & 유효성검사
 - 메인페이지 : Component Mapping
-- 리스트페이지 : Component Mapping, 다중 filter & 정렬 기능
+- **리스트페이지 : Component Mapping, 다중 filter & 정렬 기능**
 - 상세 페이지 : Component Mapping, 수량 증감에 따른 합계 계산, 카트 담기 기능
-- 장바구니 : 토큰에 따른 장바구니에 넣은 상품 불러오기, Component Mapping, 수량 증감에 따른 합계 계산
-- 제품 검색 기능 : 키워드 입력 값에 따른 상품 호출
+- **장바구니 : 토큰에 따른 장바구니에 넣은 상품 불러오기, Component Mapping, 수량 증감에 따른 합계 계산, 장바구니 항목 삭제**
+- **제품 검색 기능 : 키워드 입력 값에 따른 상품 호출**
 
 
-## 시연영상
+## 시연영상 🚀
 [1차 프로젝트 - TURTLE HOME 🐢](https://youtu.be/oteSmD-VPqg)
 
 - 인트로
