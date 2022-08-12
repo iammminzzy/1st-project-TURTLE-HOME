@@ -1,5 +1,7 @@
 # TURTLE HOME / 꼬북집 🐢
 
+<img src="https://user-images.githubusercontent.com/104430030/184290436-1d8eae9d-6a0f-494e-b31f-5cae24071e71.jpeg" alt="teamS2" width="500px" />
+
 ## 팀원소개 🚀
 
 - FrontEnd - **손민지(PM)**, 김수정, 이강철 
