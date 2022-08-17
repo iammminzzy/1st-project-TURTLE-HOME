@@ -4,8 +4,8 @@
 
 ## 팀원소개 🚀
 
-- FrontEnd - **손민지(PM)**, 김수정, 이강철 
-- BackEnd - 성바울, 전은형
+- FrontEnd(3명) - **손민지(PM)**, 김수정, 이강철 
+- BackEnd(2명) - 성바울, 전은형
 
 ## 개발 기간 🚀
 2022년 7월 18일 ~ 2022년 7월 29일 (12일)
@@ -18,11 +18,25 @@
 - 미디어 파일을 활용한 직관적인 카테고리 분류
 - 동적인 웹 페이지
 
-
-
 ## 사용기술 🚀
-- Front-End : Javascript, React, SASS
-- 협업 툴 : Git/Github, Trello, Slack, Notion 
+
+### Front-end<br>
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![JavaScript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)&nbsp;
+![Sass Badge](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Back-end<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">&nbsp;
+
+### 협업 툴
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>&nbsp;
 
 
 ## 구현기능 🚀
