@@ -2,15 +2,15 @@
 
 <img src="https://user-images.githubusercontent.com/104430030/184290436-1d8eae9d-6a0f-494e-b31f-5cae24071e71.jpeg" alt="teamS2" width="500px" />
 
-## 팀원소개 🚀
+## 팀원소개
 
 - FrontEnd(3명) - **손민지(PM)**, 김수정, 이강철 
 - BackEnd(2명) - 성바울, 전은형
 
-## 개발 기간 🚀
+## 개발 기간
 2022년 7월 18일 ~ 2022년 7월 29일 (12일)
 
-## 서비스소개 🚀
+## 서비스소개
 
 **홈 리빙 상품 판매 사이트**
 
@@ -18,7 +18,7 @@
 - 미디어 파일을 활용한 직관적인 카테고리 분류
 - 동적인 웹 페이지
 
-## 사용기술 🚀
+## 사용기술
 
 ### Front-end<br>
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>&nbsp;
 
 
-## 구현기능 🚀
+## 구현기능
 _**굵게** ➪ 담당부분_<br /> 
 - 인트로 : 이미지 슬라이드(버튼식 & 자동슬라이드)
 - 로그인 / 회원가입 : 백엔드 통신(토큰 발급 및 저장) & 유효성검사
@@ -50,7 +50,7 @@ _**굵게** ➪ 담당부분_<br />
 - **제품 검색 기능 : 키워드 입력 값에 따른 상품 호출**
 
 
-## 시연영상 🚀
+## 시연영상
 [1차 프로젝트 - TURTLE HOME 🐢](https://youtu.be/oteSmD-VPqg)
 
 - 인트로
@@ -75,7 +75,7 @@ _**굵게** ➪ 담당부분_<br />
 - 장바구니
 <Img Width="800px" src="https://user-images.githubusercontent.com/104430030/182134468-c49b36ff-fd6a-4f50-993f-1a0f717f271e.GIF" />
 
-## Reference 🚀
+## Reference
 
 - 이 프로젝트는 [ZARA HOME](https://www.zarahome.com/kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
 - 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
